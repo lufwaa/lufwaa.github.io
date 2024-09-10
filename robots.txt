@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lufwaa.github.io/YFh/sitemap.YFh.gz
